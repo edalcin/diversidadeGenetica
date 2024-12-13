@@ -1,2 +1,4 @@
-# diversidadeGenetica
-Documentação da diversidade genética da flora brasileira em repositórios FAIR
+# Documentação da diversidade genética da flora brasileira em repositórios FAIR
+
+## Catarina Lira
+## Eduardo Dalcin
