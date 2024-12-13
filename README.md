@@ -2,4 +2,4 @@
 
 ## Catarina Lira*
 ## Eduardo Dalcin*
-* Instituto de Pesquisas Jardim Botânico do Rio de Janeiro
+*Instituto de Pesquisas Jardim Botânico do Rio de Janeiro
